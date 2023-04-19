@@ -84,7 +84,7 @@ let products = [
 
     },
     {
-        tag: "book13",
+        tag: "book12",
         name: "The alchemist",
         price: 300,
         inCart: 0
