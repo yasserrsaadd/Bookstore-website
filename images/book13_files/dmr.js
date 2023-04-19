@@ -1,0 +1,2 @@
+if(typeof Spurit=="undefined")var Spurit={};typeof Spurit.Discountmanager=="undefined"&&(Spurit.Discountmanager={}),Spurit.Discountmanager.settings={enabled:!1,badge:{},enabledCollection:!1,collectionPageSelector:"",productPageSelector:"",productIds:[],variantIds:[]},Spurit.Discountmanager.labelConfig={checkout_label:{style:{color:"#C74230"},enabled:!1,selector:[],ajax_cart_enabled:!1,ajax_cart_selector:[]},discount_value:{enabled:!1,selector:[]}};
+//# sourceMappingURL=/s/files/1/0568/9072/0307/t/2/assets/dmr.js.map?v=32924881061913555841668875210
