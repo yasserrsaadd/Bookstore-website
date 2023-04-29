@@ -198,11 +198,7 @@ console.log(cartItems);
             
             <div class = "products">
                 <div >
-                <button class = "close-button">Remove</button>
-                <ion-icon name="close-circle-outline"></ion-icon>
-
-                
-                </div>
+    
                 <span class = "each-name">${item.name}</span> <br> <br>
                 <img width = "150px"  src = "./images/${item.tag}.jpg">
                 
@@ -211,9 +207,7 @@ console.log(cartItems);
                 ${item.price},00
             </div>
                 <div class = "quantity each-quantity" >
-                <ion-icon class = "decrease" name="caret-back-outline"></ion-icon>
                 <span>${item.inCart}</span>
-                <ion-icon class = "increase" name="caret-forward-outline"></ion-icon>
             </div>
             <div class = "total each-total">${item.inCart * item.price},00EGP</div>
 
