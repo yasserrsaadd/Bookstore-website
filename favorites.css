@@ -253,6 +253,19 @@ display: grid;
 grid-template-columns: repeat(5, 1fr);
   grid-gap: 10px;
 }
+/* Add this CSS for mobile responsiveness */
+@media (max-width: 768px) {
+  #favorites-list {
+      margin-top: 10px; /* Adjust spacing for smaller screens */
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  #favorites-list li {
+      width: 50%; /* Display two items per row on smaller screens */
+      text-align: center;
+  }
+}
 
 button{
   background-color: green;
