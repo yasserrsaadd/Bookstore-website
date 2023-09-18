@@ -219,3 +219,23 @@ img{
   
 }
 
+.fav{
+  text-align: end;
+}
+.favv{
+  background-color: #c9110f;
+  border-radius: 50%;
+}
+
+#favorites{
+  display: flex;
+  margin-right: 30px;
+}
+#favorites-logo{
+  padding-right: 3px;
+  position: relative;
+  bottom: 2px;
+  color: black;
+  
+  
+}

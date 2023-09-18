@@ -50,18 +50,19 @@ let products = [
     },
     {
         tag: "book7",
-        name: "Twilight",
-        price: 320,
-        inCart: 0
-
-    },
-    {
-        tag: "book8",
         name: "Dear eva",
         price: 150,
         inCart: 0
 
     },
+    {
+        tag: "book8",
+        name: "Twilight",
+        price: 320,
+        inCart: 0
+
+    },
+    
     {
         tag: "book9",
         name: "The river between",
@@ -240,6 +241,10 @@ console.log(cartItems);
   
  
 }
+
+
+
+
 
 
 
