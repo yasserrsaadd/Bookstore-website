@@ -1,7 +1,7 @@
 # Bookstore-website
 This is a responsive bookstore website built using HTML, CSS, and JavaScript. The website allows users to browse a collection of books and add them to their shopping cart. The shopping cart is saved using local storage, so users can return to the website later and still see the items they added to their cart.
 
-eatures
+Features
 The website has the following features:
 
 Responsive design: The website is designed to work on a variety of devices, including desktops, tablets, and smartphones.
