@@ -163,6 +163,8 @@ function setItems(product){
    
     
     }
+    alert("added to cart")
+
     
     localStorage.setItem("productsInCart", JSON.stringify(cartItems));
 

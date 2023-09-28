@@ -183,3 +183,22 @@ h3{
 #checkout{
   background-color: rgb(0, 212, 0);
 }
+
+
+@media only screen and (max-width: 768px) {
+  .each-price{
+    font-size: 15px;
+  }
+
+  .each-total{
+    font-size: 15px;
+    margin-top: 27px;
+  }
+  .each-quantity{
+    font-size: 15px;
+    margin-right: 28px;
+    
+  }
+
+  
+}
